@@ -3,6 +3,7 @@
 {
 "FROM":
 [
+"ZSAAD_DEPMENT",
 "ZSAAD_EMPLOYEE"
 ],
 "ASSOCIATED":
