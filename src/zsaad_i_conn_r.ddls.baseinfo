@@ -3,12 +3,10 @@
 {
 "FROM":
 [
-"ZSAAD_EMPLOYEE"
+"ZSAADI_CONNECTION_R"
 ],
 "ASSOCIATED":
-[
-"ZSAAD_DEPMENT"
-],
+[],
 "BASE":
 [],
 "ANNO_REF":

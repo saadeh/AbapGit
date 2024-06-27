@@ -3,12 +3,11 @@
 {
 "FROM":
 [
-"ZSAAD_EMPLOYEE"
+"/DMO/I_FLIGHT_R",
+"ZSAADI_CONNECTION_R"
 ],
 "ASSOCIATED":
-[
-"ZSAAD_DEPMENT"
-],
+[],
 "BASE":
 [],
 "ANNO_REF":

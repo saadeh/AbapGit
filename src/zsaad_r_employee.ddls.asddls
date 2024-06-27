@@ -26,5 +26,5 @@ association[1..1] to zsaad_depment as _Department on $projection.DepartmentId = 
     local_last_changed_by as LocalLastChangedBy,
     local_last_changed_at as LocalLastChangedAt,
     last_changed_at as LastChangedAt,
-    _Department.head_id
+    _Department
 }
