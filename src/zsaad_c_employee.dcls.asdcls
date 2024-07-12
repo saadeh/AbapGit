@@ -1,0 +1,11 @@
+@EndUserText.label: 'Access ctrl for employee data(inherited)'
+@MappingRole: true
+define role ZSAAD_C_EMPLOYEE {
+    grant
+        select
+            on
+                ZSAAD_C_EMPLOYEE
+                    where
+                        inheriting conditions from entity ZSAAD_R_EMPLOYEE;
+                        
+}
